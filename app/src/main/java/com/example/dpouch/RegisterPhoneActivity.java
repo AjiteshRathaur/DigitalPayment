@@ -27,6 +27,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+// Created by Ajitesh 
+
 public class RegisterPhoneActivity extends Activity implements OnClickListener {
 
 	private EditText make,model,sdkVersion,activationCode,imei,mssdn;
